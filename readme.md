@@ -59,3 +59,7 @@ This project is divided into two apps:
 
 ---
 
+## Team Members 
+| Aazain Rafiq | Nishnath Bandari | Shaswot Dhakal |
+|--------------|------------------|----------------|
+
